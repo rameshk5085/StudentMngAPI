@@ -25,3 +25,10 @@ C:\Users\Ramesh K\source\Assignment\StudentsManagementAPI\StudentsManagementAPI\
 C:\Users\Ramesh K\source\Assignment\StudentsManagementAPI\StudentsManagementAPI\obj\Debug\net6.0\StudentsManagementAPI.pdb
 C:\Users\Ramesh K\source\Assignment\StudentsManagementAPI\StudentsManagementAPI\obj\Debug\net6.0\StudentsManagementAPI.genruntimeconfig.cache
 C:\Users\Ramesh K\source\Assignment\StudentsManagementAPI\StudentsManagementAPI\obj\Debug\net6.0\ref\StudentsManagementAPI.dll
+C:\Users\Ramesh K\source\Assignment\StudentsManagementAPI\StudentsManagementAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ramesh K\source\Assignment\StudentsManagementAPI\StudentsManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ramesh K\source\Assignment\StudentsManagementAPI\StudentsManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ramesh K\source\Assignment\StudentsManagementAPI\StudentsManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ramesh K\source\Assignment\StudentsManagementAPI\StudentsManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ramesh K\source\Assignment\StudentsManagementAPI\StudentsManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ramesh K\source\Assignment\StudentsManagementAPI\StudentsManagementAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

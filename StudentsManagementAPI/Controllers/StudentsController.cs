@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using StudentsManagementAPI.Interface;
 using StudentsManagementAPI.Models;
 using StudentsManagementAPI.Repository;
@@ -16,8 +17,10 @@ namespace StudentsManagementAPI.Controllers
         {
             dataRepository = _dataRepository;
         }
+
         // GET: api/<StudentsController>
         [HttpGet]
+        [Authorize]
         public IEnumerable<Student> Get()
         {
             return dataRepository.GetAll();
