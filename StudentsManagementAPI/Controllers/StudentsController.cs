@@ -21,9 +21,11 @@ namespace StudentsManagementAPI.Controllers
         // GET: api/<StudentsController>
         [HttpGet]
         [Authorize]
-        public IEnumerable<Student> Get()
+        public IActionResult Get()
         {
-            return dataRepository.GetAll();
+            //return dataRepository.GetAll();
+            var students = dataRepository.GetAll();
+            return Ok(students);
         }
 
         //// GET api/<StudentsController>/5
